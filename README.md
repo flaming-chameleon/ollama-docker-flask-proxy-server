@@ -1,7 +1,5 @@
-
-
 [![Watch the video](https://img.youtube.com/vi/pbOZE2KkNuw/maxresdefault.jpg)](https://youtu.be/pbOZE2KkNuw)
-
+[Here is my Youtube video](https://youtu.be/pbOZE2KkNuw): https://youtu.be/pbOZE2KkNuw
 
 # Ollama Docker-Flask Proxy Server
 
